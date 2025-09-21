@@ -1,0 +1,38 @@
+[
+  {
+    "q": "What is 5 + 3?",
+    "options": [
+      "6",
+      "8",
+      "10"
+    ],
+    "answer": "8"
+  },
+  {
+    "q": "Which is a vowel?",
+    "options": [
+      "B",
+      "E",
+      "Z"
+    ],
+    "answer": "E"
+  },
+  {
+    "q": "Which shape has 4 equal sides?",
+    "options": [
+      "Triangle",
+      "Square",
+      "Circle"
+    ],
+    "answer": "Square"
+  },
+  {
+    "q": "Spell the word for a young dog.",
+    "options": [
+      "Cat",
+      "Puppy",
+      "Cow"
+    ],
+    "answer": "Puppy"
+  }
+]
