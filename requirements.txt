@@ -1,0 +1,5 @@
+streamlit
+gTTS
+matplotlib
+pyttsx3
+pandas
