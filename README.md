@@ -40,3 +40,6 @@ streamlit run Home.py
 - Database file: `data/neurolearn.db` (auto-created)
 - Quiz questions: `data/quizzes.json`
 - Assets/images: `data/assets/`
+
+
+Developed by Shanmugapriyan J & Nandhini R
